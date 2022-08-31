@@ -1,4 +1,14 @@
 body {
     margin: 0;
+    padding: 
     background: black;
+}
+
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(steamcode1.gif);
+    background-position: center;
+
+}
 }
